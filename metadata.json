@@ -1,0 +1,6 @@
+{
+  "name": "JALVAYU",
+  "description": "Premium cleaning and hygiene products brand e-commerce store in India with customer store, admin portal, bulk B2B orders, and order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
